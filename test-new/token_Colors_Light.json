@@ -9,6 +9,11 @@
         "$type": "color",
         "$value": "{color.blue.50}"
       },
+      "ash": {
+      "blue": {
+        "$type": "color",
+        "$value": "{color.blue.50}"
+      },
       "gray": {
         "$type": "color",
         "$value": "#f5f6f7"
